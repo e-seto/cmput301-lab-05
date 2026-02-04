@@ -2,16 +2,16 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Elizabeth Seto`
+- **CCID:** `lseto1`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+- https://www.youtube.com/watch?v=HaCkFQmVTGU&list=PLLmkb5CTw5rRsR6reO-ZkbE-QJF-GstwG&index=4
+- https://firebase.google.com/docs/firestore/manage-data/delete-data
 
 ## Verbal Collaboration
 
 | Student Name | CCID     |
 | ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+| `Anna Kibria` | `akibria` |
